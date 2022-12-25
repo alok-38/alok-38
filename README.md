@@ -1,1 +1,1 @@
-![Alok header image](./nebula.jpg)
+![Alok header image](./github-profile.png)
