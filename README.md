@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="scrimba.png" alt="scrimba" width="40" height="40"/></a> <a href="https://scrimba.com/bootcamp" target="_blank">
+- 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="scrimba.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
 - 💻 Currently working on [buzzphonics app](https://github.com/hellodeborahuk/phonics-sounds) using React.
 - 📝 I am currently learning Astro.
 - 🧘🏻‍♀️ I love weight lifting, Physics.
