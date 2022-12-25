@@ -12,3 +12,7 @@
 - ⚡ Fun fact **I love lifting weights 🏋️ and study 📚 physics**
 - 🏆 2023 Goals: **Contribute more to Open Source Projects**
 - 📫 How to reach me **plantsfortrees@gmail.com**
+
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-38&theme=radical&hide_border=true"/>
+</p>
