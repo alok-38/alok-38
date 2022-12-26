@@ -25,19 +25,19 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
 </p>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
 
-<p align="center">
-<a href="https://www.twitter.com/plantsfortrees" target="_blank"><img align="center" src="https://img.shields.io/badge/-twitter-0e76a8?style=flat-square&logo=twitter&logoColor=white" alt="alok" /></a>
-<a href="https://www.linkedin.com/in/alokananda-y-489260251/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="alok" /></a>
-<a href="https://github.com/alok-38" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="alok" /></a>
-<a href="mailto:plantsfortrees@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="alok" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alok-38&label=Visitors&color=0088cc&style=flat-square" alt="alok" /> </p>
+<p align="left">
+<a href="https://dev.to/alok37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alok" height="30" width="40" /></a>
+<a href="https://twitter.com/plantsfortrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codestation1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alokananda-y-489260251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haachal-pardeshi-258257225" height="30" width="40" /></a>
+<a href="https://codepen.io/beastmode-on" target="blank"><img align="center" src="https://assets.codepen.io/t-1/user-default-avatar.jpg?format=auto&version=0&width=80&height=80" alt="code station" height="30" width="40" /></a>
+</p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Other Stats:**
 
 <details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
+  <summary>📊 <b>Programming language Stats</b></summary>
  <br />
  <p align="center">
   <a href="https://github.com/alok-38/github-readme-stats">
