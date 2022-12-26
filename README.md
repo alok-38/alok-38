@@ -34,24 +34,16 @@
 <a href="mailto:plantsfortrees@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="alok" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alok-38&label=Visitors&color=0088cc&style=flat-square" alt="alok" /> </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Other Stats:**
 
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/alok-38">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=alok-38&show_icons=true&theme=radical&count_private=true">
-  </a>
   <a href="https://github.com/alok-38/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alok-38&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
-</details>
-
-<details>
-
-
 </details>
 
 <details>
