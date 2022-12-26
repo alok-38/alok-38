@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Any Web Projects.**
 - 💬 Ask me about **JavaScript, HTML and CSS.**
 - ⚡ Fun fact **I love lifting weights 🏋️ and study 📚 physics**
-- 🏆 2022 Goals: **Contribute more to Open Source Projects**
+- 🏆 2023 Goals: **Contribute more to Open Source Projects**
 - 📫 How to reach me **plantsfortrees@gmail.com**
 
 ## 🔥 Github Stats
