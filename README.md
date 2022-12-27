@@ -50,8 +50,10 @@
 <summary><b>🏆 Github Profile Trophy</b></summary>
 <br />
 <p align="center">
-  ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=alok-38&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
- </p>
+<a href="https://github.com/alok-38">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=alok-38&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+  </p>
 </details>
 
 <details>
