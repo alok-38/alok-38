@@ -47,10 +47,10 @@
 </details>
 
 <details>
-<summary><b>My github activity graph</b></summary>
+<summary><b>🏆 Github Profile Trophy</b></summary>
 <br />
 <p align="center">
-  <a href="https://activity-graph.herokuapp.com/graph?username=syedareehaquasar&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true">
+  ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=alok-38&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
  </p>
 </details>
 
