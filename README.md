@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="scrimba.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
-- 💻 Right now I'm building a [restaurant page](https://github.com/hellodeborahuk/phonics-sounds) using HTML and CSS.
+- 💻 Right now I'm building a [restaurant page](https://github.com/alok-38/bowel-friendly) using HTML and CSS.
 - 📝 Also learning a bit of design.
 - 👯 I’m looking to collaborate on **Any Web Projects.**
 - 💬 Ask me about **JavaScript, HTML and CSS.**
