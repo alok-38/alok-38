@@ -34,10 +34,11 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
 
 <p align="left">
-<a href="https://dev.to/alok37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alok" height="30" width="40" /></a>
-<a href="https://twitter.com/plantsfortrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codestation1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alokananda-y-489260251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haachal-pardeshi-258257225" height="30" width="40" /></a>
-<a href="https://codepen.io/beastmode-on" target="blank"><img align="center" src="https://assets.codepen.io/t-1/user-default-avatar.jpg?format=auto&version=0&width=80&height=80" alt="code station" height="30" width="40" /></a>
+<a target="_blank" rel="noreferrer" href="https://www.github.com/alok-38"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"></a>
+<a target="_blank" rel="noreferrer" href="https://www.twitter.com/plantsfortrees"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"></a>
+<a target="_blank" rel="noreferrer" href="https://discord.com/users/alok#3145"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"></a>
+<a target="_blank" rel="noreferrer" href="https://www.codepen.io/beastmode-on"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32"></a>
+<a target="_blank" rel="noreferrer" href="https://www.stackoverflow.com/users/10314676/alok-y"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Other Stats:**
