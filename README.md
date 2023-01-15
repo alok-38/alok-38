@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="scrimba.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
+- 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="favicon.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
 - 💻 Right now I'm building a [restaurant page](https://github.com/alok-38/bowel-friendly) using HTML and CSS.
 - 📝 Also learning a bit of design.
 - 👯 I’m looking to collaborate on **Any Web Projects.**
@@ -42,7 +42,6 @@
 <a target="_blank" rel="noreferrer" href="https://www.stackoverflow.com/users/10314676/alok-y"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"></a>
 <a target="_blank" rel="noreferrer" href="https://dev.to/alok38"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="32" height="32"></a>
 </p>
-
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Other Stats:**
 
