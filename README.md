@@ -25,7 +25,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages & Tools:</h2>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"></a>
+<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"></a>
@@ -36,7 +36,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me:</h2>
 
-<p align="left">
+<p align="center">
 <a target="_blank" rel="noreferrer" href="https://www.github.com/alok-38"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"></a>
 <a target="_blank" rel="noreferrer" href="https://www.twitter.com/plantsfortrees"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"></a>
 <a target="_blank" rel="noreferrer" href="https://discord.com/users/alok#3145"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"></a>
@@ -47,7 +47,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Other Stats:</h2>
 
-<details>
+<details align="center">
   <summary>📊 <b>Programming language Stats</b></summary>
  <br />
  <p align="center">
@@ -57,7 +57,7 @@
  </p>
 </details>
 
-<details>
+<details align="center">
 <summary><b>🏆 Github Profile Trophy</b></summary>
 <br />
 <p align="center">
@@ -67,7 +67,7 @@
   </p>
 </details>
 
-<details>
+<details align="center">
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
