@@ -15,12 +15,13 @@
 - 🏆 2023 Goals: **Contribute more to Open Source Projects**
 - 📫 How to reach me **plantsfortrees@gmail.com**
 
-## 🔥 Github Stats
+<h2 align="center">🔥 Github Stats</h2>
 
-<a href="https://github.com/alok-38"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=alok-38&theme=radical&title_color=ff3068"></a>
-<a href="https://github.com/alok-38"><img width="70%" src="http://github-readme-streak-stats.herokuapp.com/?user=alok-38&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a align="center" href="https://github.com/alok-38"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=alok-38&theme=radical&title_color=ff3068"></a>
+<a align="center" href="https://github.com/alok-38"><img width="70%" src="http://github-readme-streak-stats.herokuapp.com/?user=alok-38&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+
+<h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages & Tools:</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"></a>
