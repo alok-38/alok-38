@@ -2,9 +2,9 @@
 
 <h3 align="center">Hey it's me Alok 👨‍🎨. I have a keen interest in Fullstack Development 👨‍💻, and have a huge fascination with the inner workings of web apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alok-38&label=Profile%20views&color=0e75b6&style=flat" alt="alok-38" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alok-38&label=Profile%20views&color=0e75b6&style=flat" width="100" alt="alok-38" /> </p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
 - 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="favicon.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
 - 💻 Right now I'm building a [restaurant page](https://github.com/alok-38/bowel-friendly) using HTML and CSS.
