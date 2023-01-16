@@ -2,10 +2,11 @@
 
 <h3 align="center">Hey it's me Alok 👨‍🎨. I have a keen interest in Fullstack Development 👨‍💻, and have a huge fascination with the inner workings of web apps.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alok-38&label=Profile%20views&color=0e75b6&style=flat" width="100" alt="alok-38" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alok-38&label=Profile%20views&color=0e75b6&style=flat" alt="alok-38" width="200" /> </p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
+<div align="center">
 - 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="favicon.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
 - 💻 Right now I'm building a [restaurant page](https://github.com/alok-38/bowel-friendly) using HTML and CSS.
 - 📝 Also learning a bit of design.
@@ -14,6 +15,7 @@
 - ⚡ Fun fact **I love lifting weights 🏋️ and study 📚 physics**
 - 🏆 2023 Goals: **Contribute more to Open Source Projects**
 - 📫 How to reach me **plantsfortrees@gmail.com**
+</div>
 
 <h2 align="center">🔥 Github Stats</h2>
 
@@ -24,7 +26,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages & Tools:</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"></a>
@@ -34,7 +36,7 @@
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" alt="XD" width="36" height="36"></a> </p>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
+<h2 align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me:</h2>
 
 <p align="left">
 <a target="_blank" rel="noreferrer" href="https://www.github.com/alok-38"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"></a>
@@ -45,7 +47,7 @@
 <a target="_blank" rel="noreferrer" href="https://dev.to/alok38"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="32" height="32"></a>
 </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Other Stats:**
+<h2 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Other Stats:</h2>
 
 <details>
   <summary>📊 <b>Programming language Stats</b></summary>
