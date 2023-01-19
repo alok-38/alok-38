@@ -6,14 +6,14 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
-🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="favicon.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
-💻 Right now I'm building a [restaurant page](https://github.com/alok-38/bowel-friendly) using HTML and CSS.
-📝 Also learning a bit of design.
-👯 I’m looking to collaborate on **Any Web Projects.**
-💬 Ask me about **JavaScript, HTML and CSS.**
-⚡ Fun fact **I love lifting weights 🏋️ and study 📚 physics**
-🏆 2023 Goals: **Contribute more to Open Source Projects**
-📫 How to reach me **plantsfortrees@gmail.com**
+-🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="favicon.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
+-💻 Right now I'm building a [restaurant page](https://github.com/alok-38/bowel-friendly) using HTML and CSS.
+-📝 Also learning a bit of design.
+-👯 I’m looking to collaborate on **Any Web Projects.**
+-💬 Ask me about **JavaScript, HTML and CSS.**
+-⚡ Fun fact **I love lifting weights 🏋️ and study 📚 physics**
+-🏆 2023 Goals: **Contribute more to Open Source Projects**
+-📫 How to reach me **plantsfortrees@gmail.com**
 
 <h2 align="center">🔥 Github Stats</h2>
 
