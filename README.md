@@ -6,7 +6,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
-- 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="favicon.png" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
+- 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="https://cdn.discordapp.com/icons/684009642984341525/a_034cb1bffc83982d8868f2bc41337403.webp?size=32" alt="scrimba" width="40" height="40"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
 - 💻 Right now I'm building a [restaurant page](https://github.com/alok-38/bowel-friendly) using HTML and CSS.
 - 📝 Also learning a bit of design.
 - 👯 I’m looking to collaborate on **Any Web Projects.**
