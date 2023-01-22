@@ -7,13 +7,19 @@
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
 - 🔭 I’m currently working on **Improving my Coding Skills** as a <a href="https://scrimba.com/bootcamp" target="_blank"><img src="https://cdn.discordapp.com/icons/684009642984341525/a_034cb1bffc83982d8868f2bc41337403.webp?size=32" alt="scrimba" width="20" height="20"/>Bootcamp Student</a> <a href="https://scrimba.com/bootcamp" target="_blank">
-- 💻 Right now I'm building a [restaurant page](https://github.com/alok-38/bowel-friendly) using HTML and CSS.
+- 💻 Right now I'm building something cool using HTML and CSS JavaScript.
 - 📝 Also learning a bit of design.
 - 👯 I’m looking to collaborate on **Any Web Projects.**
 - 💬 Ask me about **JavaScript, HTML and CSS.**
 - ⚡ Fun fact **I love lifting weights 🏋️ and study 📚 physics**
 - 🏆 2023 Goals: **Contribute more to Open Source Projects**
 - 📫 How to reach me **plantsfortrees@gmail.com**
+
+📕 &nbsp;**Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Trends that changed Full-Stack Development](https://hashnode.com/draft/63cbebe8c3f909000890295a)
 
 <h2 align="center">🔥 Github Stats</h2>
 
