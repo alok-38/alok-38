@@ -47,7 +47,7 @@
 <a target="_blank" rel="noreferrer" href="https://discord.com/users/alok#3145"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"></a>
 <a target="_blank" rel="noreferrer" href="https://www.codepen.io/beastmode-on"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32"></a>
 <a target="_blank" rel="noreferrer" href="https://www.stackoverflow.com/users/10314676/alok-y"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"></a>
-<a href="https://hashnode.com/alok-38" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="alok-38" height="30" width="40" /></a>
+<a href="https://hashnode.com/@alok38" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="alok-38" height="30" width="40" /></a>
 </p>
 
 <h2><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Other Stats:</h2>
