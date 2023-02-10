@@ -77,7 +77,7 @@
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
   	   <li><b>OS:</b> Ubuntu 22.04</li>
-	     <li><b>Laptop: </b> Acer Predator Helios (Intel Core 7th Gen)</li>
+	     <li><b>Laptop: </b> Acer Predator Helios (12th Gen Intel(R) Core(TM) i7-12700H)</li>
   	   <li><b>Browser: </b> Firefox Web Browser</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	     <li><b>To Stay Updated:</b> Twitter </li>
