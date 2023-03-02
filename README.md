@@ -6,7 +6,7 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
-- 🔭 I’m currently working on **Improving my Coding Skills** as an <a href="https://scrimba.com/bootcamp" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
+- 🔭 I’m currently working on **Improving my Coding Skills** as an <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
 - 💻 Right now I'm building something cool using HTML and CSS JavaScript.
 - 📝 Also learning a bit of design.
 - 👯 I’m looking to collaborate on **Any Web Projects.**
