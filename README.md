@@ -12,14 +12,10 @@
 - 👯 I’m looking to collaborate on **Any Web Projects.**
 - 💬 Ask me about **JavaScript, HTML and CSS.**
 - ⚡ Fun fact **I love lifting weights 🏋️ and study 📚 physics**
-- 🏆 2023 Goals: **Contribute more to Open Source Projects**
+- 🏆 2023 Goals: **Learn as much as I can**
 - 📫 How to reach me **plantsfortrees@gmail.com**
 
 📕 &nbsp;**Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Trends that changed Full-Stack Development](https://hashnode.com/draft/63cbebe8c3f909000890295a)
 
 <h2 align="center">🔥 Github Stats</h2>
 
