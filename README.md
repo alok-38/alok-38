@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on **Improving my Coding Skills** as an <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
 - 💻 Right now I'm building something cool using HTML and CSS JavaScript.
 - 📝 Also learning a bit of design.
-- 👯 I’m looking to collaborate on **Any Web Projects.**
+- 👯 I’m looking to collaborate on **Full-stack web application projects.**
 - 💬 Ask me about **JavaScript, HTML and CSS.**
 - ⚡ Fun fact **I love lifting weights 🏋️ and study 📚 physics**
-- 🏆 2024 Goals: **Learn as much as I can**
+- 🏆 2024 Goals: **Master Next.js**
 - 📫 How to reach me **plantsfortrees@gmail.com**
 
 📕 &nbsp;**Latest Blog Posts**
