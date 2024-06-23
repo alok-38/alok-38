@@ -7,7 +7,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
 - 🔭 I’m currently working on **Improving my Coding Skills** as an <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
-- 💻 Right now I'm building something cool using HTML and CSS JavaScript.
+- 💻 Right now I'm building a banking app using Next.js.
 - 📝 Also learning a bit of design.
 - 👯 I’m looking to collaborate on **Full-stack web application projects.**
 - 💬 Ask me about **JavaScript, HTML and CSS.**
