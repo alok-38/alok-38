@@ -7,11 +7,11 @@
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
 - 🔭 I’m currently working on **Improving my Coding Skills** as an <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
-- 💻 Right now I'm experimenting with Next.js.
+- 💻 Right now I'm experimenting with Frontend technologies.
 - 👯 I’m looking to collaborate on **Full-stack web application projects.**
 - 💬 Ask me about **JavaScript, HTML and CSS.**
 - ⚡ Fun fact **I love lifting weights 🏋️, study 📚 physics and experiment with Unreal Engine**
-- 🏆 2024 Goals: **Master Next.js**
+- 🏆 2025 Goals: **Master the fundamentals**
 - 📫 How to reach me **plantsfortrees@gmail.com**
 
 📕 &nbsp;**Latest Blog Posts**
