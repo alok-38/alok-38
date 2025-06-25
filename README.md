@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Improving my Coding Skills** as an <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
 - 💻 Right now I'm experimenting with Frontend technologies.
 - 👯 I’m looking to collaborate on **Creating Games.**
-- 💬 Ask me about **JavaScript, HTML and CSS.**
+- 💬 Love to talk about **C and C++, Game Engines and anythng related to the Games Industry.**
 - ⚡ Fun fact **I love lifting weights 🏋️, study 📚 physics and experiment with Unreal Engine**
 - 🏆 2025 Goals: **Master the fundamentals**
 - 📫 How to reach me **plantsfortrees@gmail.com**
