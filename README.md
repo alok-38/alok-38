@@ -1,6 +1,6 @@
 ![Alok header image](./github-profile.png)
 
-<h3 align="center">Hey it's me Alok 👨‍🎨. I have a keen interest in Game Development 👨‍💻.</h3>
+<h3 align="center">Hey it's me Alok 👨‍🎨. I am learning DevOps from scratch 👨‍💻.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alok-38&label=Profile%20views&color=0e75b6&style=flat" alt="alok-38" width="200" /> </p>
 
