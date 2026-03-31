@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Improving my DevOps + SRE + Platform sills** as an <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
 - 💻 Right now I'm learning Systems Thinking
-- ⚡ Fun fact **I love lifting weights 🏋️, study 📚 physics and experiment with Unreal Engine**
+- ⚡ Fun fact **I love lifting weights 🏋️, occasionaly study 📚 physics and play games**
 - 🏆 2026 Goals: **Master the fundamentals**
 - 📫 How to reach me **plantsfortrees@gmail.com**
 
