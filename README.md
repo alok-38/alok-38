@@ -67,11 +67,11 @@
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	   <li><b>OS:</b> Ubuntu 22.04</li>
+  	   <li><b>OS:</b> Fedora 14 as host with three guest virtual machines (Debian, Alma and OpenSUSE</li>
 	     <li><b>Laptop: </b> Acer Predator Helios (12th Gen Intel(R) Core(TM) i7-12700H)</li>
   	   <li><b>Browser: </b> Firefox Web Browser</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	     <li><b>To Stay Updated:</b> Twitter </li>
+	     <li><b>To Stay Updated:</b> X(Twitter) </li>
 	    <br />
 	</ul>
 </details>
