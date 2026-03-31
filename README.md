@@ -1,13 +1,13 @@
 ![Alok header image](./github-profile.png)
 
-<h3 align="center">Hey it's me Alok 👨‍🎨. I am learning programming from scratch 👨‍💻.</h3>
+<h3 align="center">Hey it's me Alok 👨‍🎨. I'm acquiring Overlapping Skills (DevOps + SRE + Platform) 👨‍💻.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alok-38&label=Profile%20views&color=0e75b6&style=flat" alt="alok-38" width="200" /> </p>
 
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
 
-- 🔭 I’m currently working on **Improving my Coding Skills** as an <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
-- 💻 Right now I'm learning DevOps
+- 🔭 I’m currently working on **Improving my DevOps + SRE + Platform sills** as an <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">autodidact</a> <a href="https://en.wikipedia.org/wiki/Autodidacticism" target="_blank">
+- 💻 Right now I'm learning Systems Thinking
 - ⚡ Fun fact **I love lifting weights 🏋️, study 📚 physics and experiment with Unreal Engine**
 - 🏆 2026 Goals: **Master the fundamentals**
 - 📫 How to reach me **plantsfortrees@gmail.com**
