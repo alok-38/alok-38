@@ -15,7 +15,6 @@
 <h2 align="center">🔥 GitHub Stats</h2>
 
 <div align="center">
-<a href="https://github.com/alok-38"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=alok-38&theme=radical&title_color=ff3068"></a>
 <a href="https://github.com/alok-38"><img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=alok-38&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </div>
 
